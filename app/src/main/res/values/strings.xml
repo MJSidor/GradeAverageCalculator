@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="firstName_text">Imię</string>
+    <string name="surname_text">Nazwisko</string>
+    <string name="gradeCount_text">Liczba ocen:</string>
+    <string name="firstName_text1">Nazwisko</string>
+    <string name="grades_button_text">Oceny</string>
+    <string name="etykieta" />
+    <string name="radioButton_2_text">2</string>
+    <string name="radioButton3_text">3</string>
+    <string name="radioButton2_text">2</string>
+    <string name="radioButton4_text">4</string>
+    <string name="radioButton5_text">5</string>
+    <string name="grade2Button_text">2</string>
+    <string name="grade3Button_text">3</string>
+    <string name="grade4Button_text">4</string>
+    <string name="grade5Button_text">5</string>
+    <string name="buttonOut_text">Gotowe</string>
+    <string name="creditsTextView_text">Michał J. Sidor, 2019</string>
+    <string name="creditsLink_text">Credits</string>
+    <string name="swipeTextView_text"><![CDATA[< Swipe left]]></string>
+</resources>
